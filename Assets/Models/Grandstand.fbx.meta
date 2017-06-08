@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 259a26846903b9740a1e5568d0c4dc83
+timeCreated: 1447165467
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bleachers
+    100002: Bucket Seats
+    100004: Bucket Seats Top
+    100006: Bucket Seats_MeshPart0
+    100008: Bucket Seats_MeshPart1
+    100010: Bucket Seats_MeshPart2
+    100012: Camera
+    100014: Front Rail
+    100016: Front SIde_Left
+    100018: Front SIde_Right.
+    100020: Fronts Steps
+    100022: //RootNode
+    100024: Legs
+    100026: Rows
+    100028: Stair Rails
+    100030: Stand SIde_Left
+    100032: Stand SIde_Right
+    100034: Stand_Back._Left
+    100036: Stand_Back_ Right
+    100038: Steps
+    100040: Top Rails
+    100042: Top side_Left
+    100044: Top SIde_Right.
+    400000: Bleachers
+    400002: Bucket Seats
+    400004: Bucket Seats Top
+    400006: Bucket Seats_MeshPart0
+    400008: Bucket Seats_MeshPart1
+    400010: Bucket Seats_MeshPart2
+    400012: Camera
+    400014: Front Rail
+    400016: Front SIde_Left
+    400018: Front SIde_Right.
+    400020: Fronts Steps
+    400022: //RootNode
+    400024: Legs
+    400026: Rows
+    400028: Stair Rails
+    400030: Stand SIde_Left
+    400032: Stand SIde_Right
+    400034: Stand_Back._Left
+    400036: Stand_Back_ Right
+    400038: Steps
+    400040: Top Rails
+    400042: Top side_Left
+    400044: Top SIde_Right.
+    2300000: Bleachers
+    2300002: Bucket Seats Top
+    2300004: Bucket Seats_MeshPart0
+    2300006: Bucket Seats_MeshPart1
+    2300008: Bucket Seats_MeshPart2
+    2300010: Front Rail
+    2300012: Front SIde_Left
+    2300014: Front SIde_Right.
+    2300016: Fronts Steps
+    2300018: Legs
+    2300020: Rows
+    2300022: Stair Rails
+    2300024: Stand SIde_Left
+    2300026: Stand SIde_Right
+    2300028: Stand_Back._Left
+    2300030: Stand_Back_ Right
+    2300032: Steps
+    2300034: Top Rails
+    2300036: Top side_Left
+    2300038: Top SIde_Right.
+    3300000: Bleachers
+    3300002: Bucket Seats Top
+    3300004: Bucket Seats_MeshPart0
+    3300006: Bucket Seats_MeshPart1
+    3300008: Bucket Seats_MeshPart2
+    3300010: Front Rail
+    3300012: Front SIde_Left
+    3300014: Front SIde_Right.
+    3300016: Fronts Steps
+    3300018: Legs
+    3300020: Rows
+    3300022: Stair Rails
+    3300024: Stand SIde_Left
+    3300026: Stand SIde_Right
+    3300028: Stand_Back._Left
+    3300030: Stand_Back_ Right
+    3300032: Steps
+    3300034: Top Rails
+    3300036: Top side_Left
+    3300038: Top SIde_Right.
+    4300000: Bucket Seats Top
+    4300002: Stand_Back._Left
+    4300004: Top side_Left
+    4300006: Front SIde_Left
+    4300008: Top SIde_Right.
+    4300010: Front SIde_Right.
+    4300012: Top Rails
+    4300014: Stair Rails
+    4300016: Fronts Steps
+    4300018: Stand SIde_Left
+    4300020: Legs
+    4300022: Front Rail
+    4300024: Bucket Seats_MeshPart0
+    4300026: Bucket Seats_MeshPart1
+    4300028: Bucket Seats_MeshPart2
+    4300030: Bleachers
+    4300032: Stand SIde_Right
+    4300034: Stand_Back_ Right
+    4300036: Steps
+    4300038: Rows
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
